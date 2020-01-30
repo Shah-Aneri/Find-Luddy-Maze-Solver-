@@ -1,6 +1,6 @@
 # Find-Luddy-Maze-Solver-
 
-1)Find_Luddy Problem:- The aim of this problem is to find out the shortest path from my current location to Luddy Hall and also display the compass directions traversed during finding the path.
+Find_Luddy Problem:- The aim of this problem is to find out the shortest path from my current location to Luddy Hall and also display the compass directions traversed during finding the path.
 
 Initial State:- Initial state here is my current location(#) on the map.
 
